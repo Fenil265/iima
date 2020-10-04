@@ -1,0 +1,20 @@
+[01-Jul-2019 07:09:30 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 07:09:30 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 07:09:30 America/Chicago] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 07:09:30 America/Chicago] PHP Warning:  require_once(blog.class.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 3
+[01-Jul-2019 07:09:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'blog.class.php' (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 3
+[01-Jul-2019 07:09:56 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 07:09:56 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 07:09:56 America/Chicago] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 07:09:56 America/Chicago] PHP Warning:  require_once(blog.class.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 3
+[01-Jul-2019 07:09:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'blog.class.php' (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 3
+[01-Jul-2019 08:33:20 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 08:33:20 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 08:33:20 America/Chicago] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 08:33:20 America/Chicago] PHP Warning:  require_once(cacheMaster/PhpFileCache.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 14
+[01-Jul-2019 08:33:20 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'cacheMaster/PhpFileCache.php' (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 14
+[01-Jul-2019 08:33:22 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 08:33:22 America/Chicago] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 08:33:22 America/Chicago] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 2
+[01-Jul-2019 08:33:23 America/Chicago] PHP Warning:  require_once(cacheMaster/PhpFileCache.php): failed to open stream: No such file or directory in /home1/amitech/singaporepubcrawl.com/index.php on line 14
+[01-Jul-2019 08:33:23 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'cacheMaster/PhpFileCache.php' (include_path='.:/opt/php55/lib/php') in /home1/amitech/singaporepubcrawl.com/index.php on line 14
